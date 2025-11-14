@@ -6,5 +6,10 @@ public class test235 {
 		System.out.println("안녕ㅎ;");
 		System.out.println("안녕ㅎ;");
 		System.out.println("안녕ㅎ;");
+		System.out.println("안녕ㅎ;");
+		System.out.println("안녕ㅎ;");
+		System.out.println("안녕ㅎ;");
+		System.out.println("안녕ㅎ;");
+		System.out.println("안녕ㅎ;");
 	}
 }
